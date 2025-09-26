@@ -13,9 +13,9 @@
   * репозиторий https://github.com/natashta/invest_hero/
   * сайт https://natashta.github.io/invest_hero/index.html
  
-* Пет-проект на Джаваскрипт: 
- * репозиторий https://github.com/natashta/seaBattle
- * апп https://natashta.github.io/seaBattle/
+* Пет-проект на Джаваскрипт:
+   * репозиторий https://github.com/natashta/seaBattle
+   * апп https://natashta.github.io/seaBattle/
 
 * Дипломная работа с курса Нетологии "Продвинутый джаваскрипт"
   * репозиторий https://github.com/natashta/ajs-diploma
