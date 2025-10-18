@@ -1,13 +1,13 @@
 * Лендинг дла коллаборации Kappa + Virtus.pro, 2025г
   * репозиторий https://github.com/natashta/kappa-sm
-  * сайт https://natashta.github.io/kappa-sm/
+  * демо https://natashta.github.io/kappa-sm/
 
 * Сайт для волонтерской организаниции, Вордпресс + плагин Элементор
   * сайт https://catebi.ge/
 
-* Тестовое задание: адаптивный лендинг + джаваскрипт
-  * репозиторий https://github.com/natashta/aarzamas-test
-  * демо https://natashta.github.io/aarzamas-test/
+* Лендинг для акции с анимациями:
+  * репозиторий https://github.com/natashta/winter-prizes-sm
+  * демо https://natashta.github.io/winter-prizes-sm/
 
 * Лендинг для инвестиционной компании
   * репозиторий https://github.com/natashta/invest_hero/
