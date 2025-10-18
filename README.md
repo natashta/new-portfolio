@@ -1,6 +1,6 @@
 * Лендинг дла коллаборации Kappa + Virtus.pro, 2025г
   * репозиторий https://github.com/natashta/kappa-sm
-  * сайт https://www.sportmaster.ru/promo/116636304/
+  * сайт https://natashta.github.io/kappa-sm/
 
 * Сайт для волонтерской организаниции, Вордпресс + плагин Элементор
   * сайт https://catebi.ge/
