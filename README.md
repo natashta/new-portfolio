@@ -17,6 +17,6 @@
    * репозиторий https://github.com/natashta/seaBattle
    * апп https://natashta.github.io/seaBattle/
 
-* Дипломная работа с курса Нетологии "Продвинутый джаваскрипт"
+* Учебная работа с курса Нетологии "Продвинутый джаваскрипт"
   * репозиторий https://github.com/natashta/ajs-diploma
   * апп https://natashta.github.io/ajs-diploma/
